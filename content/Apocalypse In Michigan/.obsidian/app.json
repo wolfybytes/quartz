@@ -1,0 +1,9 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "attachmentFolderPath": "Media",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
+}

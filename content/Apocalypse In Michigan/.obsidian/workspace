@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "891a6afeee29b13c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b93f3353d8b0275",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Garou/Vi Montwood.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b4993c517dc354b",
+    "type": "split",
+    "children": [
+      {
+        "id": "27d8052b62bfc74f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f64166b5fe180d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c6671d3d987a627c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33483d7c57185048",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cc25f24efc565e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb55ade66817b3ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Garou/Vi Montwood.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "7b93f3353d8b0275",
+  "lastOpenFiles": [
+    "Garou/Vi Montwood.md",
+    "Garou/Diane Montwood.md",
+    "Garou/Eve Montwood.md",
+    "Garou/Kolina Montwood.md",
+    "Garou/Koda Sabriel.md",
+    "vi_homid.jpg.md",
+    "Vi.md",
+    "koda_homid.jpeg.md",
+    "Media/koda_homid.jpg",
+    "Media/koda_lupus.jpg"
+  ]
+}
